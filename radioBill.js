@@ -41,6 +41,7 @@ function RadioBills(){
         if(getCheckedTotal()>=50){
             return 'critical';
         }
+        
     }
     return{
 

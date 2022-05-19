@@ -29,6 +29,7 @@ function getCallTotal(){
     return textCallTotal;
 }
 
+
 function getTotal(){
 
     return textCallTotal + textSmsTotal;

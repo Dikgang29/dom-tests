@@ -41,7 +41,7 @@ describe('The radioBill factory function' , function(){
         assert.equal(0, radioBill.getCheckedCallTotal());
         assert.equal(0, radioBill.getCheckedTotal());
         
-    });
+    });  
 
     it('should return a warning level signal if the overall total cost is above R30 and less than R50' , function(){
         

@@ -122,6 +122,7 @@ describe('The textBill factory function' , function(){
         textBills.makeCall();
         textBills.makeCall();
         textBills.makeCall();
+        
 
 
         

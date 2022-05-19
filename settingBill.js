@@ -76,6 +76,7 @@ function BillWithSettings(){
 
         return getTotalCost() >= getCriticalLevel();
     }
+    
 
     function totalClassName(){
 

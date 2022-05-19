@@ -184,7 +184,7 @@ describe('warning and critical level',function(){
         settingsBill.setWarningLevel(8);
         settingsBill.setCriticalLevel(10);
         
-        
+         
         settingsBill.makeCall();
         settingsBill.makeCall();
         settingsBill.makeCall();
